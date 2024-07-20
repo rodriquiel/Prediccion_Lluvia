@@ -18,6 +18,8 @@ El conjunto de datos que se utilizará tiene columnas adicionales como 'RainToda
 
 Las definiciones de columnas fueron obtenidas de http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
 
+El proyecto desarrollado forma parte de la formacion *Machine Learning with Python* un curso en línea autorizado por IBM y ofrecido a través de Coursera
+
 ## Resultados obtenidos
 
 ![descarga](https://github.com/user-attachments/assets/d38e5522-824f-44fd-ac6d-87580850ab3f)
